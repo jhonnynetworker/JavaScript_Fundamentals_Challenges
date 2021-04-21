@@ -1,7 +1,6 @@
 /* JavaScript Fundamentals –Part 1
     * Coding Challenge #1
-    * Mark and John are trying to compare their BMI (Body Mass Index), 
-    * which is calculated using the formula:
+    * Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula:
     * BMI = mass / height ** 2 = mass / (height * height)
     * (mass in kg and height in meter).
     
