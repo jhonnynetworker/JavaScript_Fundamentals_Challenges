@@ -1,3 +1,13 @@
+/*Shopping Exercise
+Mary's mother ask her to go to the supermarket shopping and gave her the following shopping list:
+Carrots, Meat, Fish , Eggs, Rice, Sugar. For paying Mary received 3 distinct banknotes
+1 – Check if Mary can buy all the groceries or not. As an extra you can mention the groceries that
+she couldn't buy
+2 - Check what are the banknotes that she is going to deliver, and the money she will receive
+3 – Consider the promotion of the Eggs having a 10% discount on the price
+4 – In case Mary bought everything, her mother told her she could receive 5% of the remaining
+money. Calculate the money that Mary received
+*/
 
 const itemsList = [`Carrots`, `Meat`, `Fish` , `Eggs`, `Rice`, `Sugar`];
 const banknotes = [20, 20, 20];
