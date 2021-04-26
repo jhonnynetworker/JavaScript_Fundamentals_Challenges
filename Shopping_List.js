@@ -57,6 +57,6 @@ if (check >= 1) {
     let maryWin = check*0.05;
     console.log(`Nice Mary, left`+` `+ maryWin.toFixed(2) +` `+`€`+` `+ `for the sweets!`);
     
-} /*else {
+} else {
     console.log(`Sorry Mary, there is no "nibble" this time ..`)
-}*/
+}
