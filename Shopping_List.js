@@ -34,7 +34,6 @@ const chekCash =
 
 
 let check = (totalCash - totalList);
-    console.log(check);
 
 if (check >= 0) {
     console.log(`Remaining =`+` `+check+` `+`€`);
