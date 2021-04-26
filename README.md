@@ -1,5 +1,5 @@
 # JavaScript Fundamentals Course
-# Exercises and Challenges
+<p>Exercises and Challenges</p>
 
 In this repository I will throw up the challenges proposed by **@jonasschmedtman** in the UDEMY course "The Complete **JavaScript** Course 2021: From Zero to Expert!"; in addition to some other exercises proposed by the Tutor **@Joao_Bernardino.
 
